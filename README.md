@@ -23,7 +23,7 @@ You can reach Harvard CS50x - 2022 [here](https://cs50.harvard.edu/x/2022/).
 
 - Problem Set 2
   - [Readability](./Week2_Array/ProblemSet2/Readability/readability.c)
-  - Caesar
+  - [Caesar](./Week2_Array/ProblemSet2/Caesar/caesar.c)
   - Substitution
 
 
