@@ -34,8 +34,16 @@ You can reach Harvard CS50x - 2022 [here](https://cs50.harvard.edu/x/2022/).
   - Runoff
   - Tideman
 
+## Week 6 Python
 
-## Python
+- Lab6
+- Problem Set 6
+  - Hello
+  - Mario
+    - if you feel less comfortable: [mario.c]
 
-
-
+    - if you feel more comfortable: [mario.c]
+  - [Cash]
+  - [Credit]
+  - Readability
+  - DNA
