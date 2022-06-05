@@ -12,15 +12,12 @@ You can reach Harvard CS50x - 2022 [here](https://cs50.harvard.edu/x/2022/).
   - Mario
     - if you feel less comfortable: [mario.c](./Week1_C/ProblemSet1/Mario/lessComfortable/mario.c)
     - if you feel more comfortable: [mario.c](./Week1_C/ProblemSet1/Mario/moreComfortable/mario.c)
-
   - [Cash](./Week1_C/ProblemSet1/Cash/cash.c)
   - [Credit](./Week1_C/ProblemSet1/Credit/credit.c)
-
 
 ## Week 2 Array
 
 - [Lab2](./Week2_Array/Lab2/scrabble.c)
-
 - [Problem Set 2](https://cs50.harvard.edu/x/2022/psets/2/)
   - [Readability](./Week2_Array/ProblemSet2/Readability/readability.c)
   - [Caesar](./Week2_Array/ProblemSet2/Caesar/caesar.c)
@@ -41,7 +38,6 @@ You can reach Harvard CS50x - 2022 [here](https://cs50.harvard.edu/x/2022/).
   - [Hello](./Week6_Python/ProblemSet6/Hello/hello.py)
   - Mario
     - if you feel less comfortable: [mario.c](./Week6_Python/ProblemSet6/Mario/lessComfortable/mario.py)
-
     - if you feel more comfortable: [mario.c](./Week6_Python/ProblemSet6/Mario/moreComfortable/mario.py)
   - [Cash](./Week6_Python/ProblemSet6/Cash/cash)
   - [Credit]
