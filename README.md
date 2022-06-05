@@ -21,12 +21,18 @@ You can reach Harvard CS50x - 2022 [here](https://cs50.harvard.edu/x/2022/).
 
 - [Lab2](./Week2_Array/Lab2/scrabble.c)
 
-- Problem Set 2
+- [Problem Set 2](https://cs50.harvard.edu/x/2022/psets/2/)
   - [Readability](./Week2_Array/ProblemSet2/Readability/readability.c)
   - [Caesar](./Week2_Array/ProblemSet2/Caesar/caesar.c)
-  - Substitution
+  - [Substitution](./Week2_Array/ProblemSet2/Substitution/substitution.c)
 
+## Week 3 Algorithms
 
+- Lab3
+- Problem Set 3
+  - Plurality
+  - Runoff
+  - Tideman
 
 
 ## Python
