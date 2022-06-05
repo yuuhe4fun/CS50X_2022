@@ -37,13 +37,13 @@ You can reach Harvard CS50x - 2022 [here](https://cs50.harvard.edu/x/2022/).
 ## Week 6 Python
 
 - Lab6
-- Problem Set 6
-  - Hello
+- [Problem Set 6](https://cs50.harvard.edu/x/2022/psets/6/)
+  - [Hello](./Week6_Python/ProblemSet6/Hello/hello.py)
   - Mario
-    - if you feel less comfortable: [mario.c]
+    - if you feel less comfortable: [mario.c](./Week6_Python/ProblemSet6/Mario/lessComfortable/mario.py)
 
-    - if you feel more comfortable: [mario.c]
-  - [Cash]
+    - if you feel more comfortable: [mario.c](./Week6_Python/ProblemSet6/Mario/moreComfortable/mario.py)
+  - [Cash](./Week6_Python/ProblemSet6/Cash/cash)
   - [Credit]
   - Readability
   - DNA
