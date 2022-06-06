@@ -41,5 +41,5 @@ You can reach Harvard CS50x - 2022 [here](https://cs50.harvard.edu/x/2022/).
     - if you feel more comfortable: [mario.c](./Week6_Python/ProblemSet6/Mario/moreComfortable/mario.py)
   - [Cash](./Week6_Python/ProblemSet6/Cash/cash.py)
   - [Credit](./Week6_Python/ProblemSet6/Credit/credit.py)
-  - Readability
+  - [Readability](./Week6_Python/ProblemSet6/Readability/readability.py)
   - DNA
