@@ -25,7 +25,7 @@ You can reach Harvard CS50x - 2022 [here](https://cs50.harvard.edu/x/2022/).
 
 ## Week 3 Algorithms
 
-- Lab3
+- [Lab3](./Week3_Algorithms/Lab3/answers.txt)
 - Problem Set 3
   - Plurality
   - Runoff
